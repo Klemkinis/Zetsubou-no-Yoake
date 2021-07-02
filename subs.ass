@@ -431,7 +431,7 @@ Dialogue: 0,0:21:29.90,0:21:32.50,Default,,0,0,0,,In order to quickly save Lecil
 Dialogue: 0,0:21:32.50,0:21:35.40,Default,,0,0,0,,Theres no other way but to retrieve Master Orb
 Dialogue: 0,0:21:35.70,0:21:38.40,Default,,0,0,0,,And to achieve that we only need one thing
 Dialogue: 0,0:21:38.70,0:21:39.70,Default,,0,0,0,,Its..
-Dialogue: 0,0:21:41.40,0:21:43.10,Default,,0,0,0,,"Oragon Heart"
+Dialogue: 0,0:21:40.20,0:21:43.10,Default,,0,0,0,,"Alright, Oragon Heart!"
 Dialogue: 0,0:21:45.00,0:21:46.00,Default,,0,0,0,,What even is that?
 Dialogue: 0,0:21:47.40,0:21:49.90,Default,,0,0,0,,Thats our team signature phrase that I though of
 Dialogue: 0,0:21:50.30,0:21:52.60,Default,,0,0,0,,Why is your name part of it?
@@ -645,3 +645,74 @@ Dialogue: 0,0:32:07.50,0:32:09.60,Default,,0,0,0,,Don't tell me Lucifer is here
 Dialogue: 0,0:32:10.30,0:32:11.90,Default,,0,0,0,,Something is wrong there
 Dialogue: 0,0:32:12.20,0:32:13.50,Default,,0,0,0,,If I remember that person is..
 Dialogue: 0,0:32:14.20,0:32:15.20,Default,,0,0,0,,Its Zephon!
+
+Dialogue: 0,0:32:25.30,0:32:26.50,Default,,0,0,0,,About Zephon
+Dialogue: 0,0:32:28.20,0:32:29.60,Default,,0,0,0,,Are you perhaps grieving?
+Dialogue: 0,0:32:30.70,0:32:33.20,Default,,0,0,0,,Thats what they call an aching heart
+Dialogue: 0,0:32:33.60,0:32:35.40,Default,,0,0,0,,Be sure to remember the feeling
+Dialogue: 0,0:32:36.90,0:32:39.30,Default,,0,0,0,,You're free to disobey Lucifer too, but
+Dialogue: 0,0:32:39.90,0:32:43.70,Default,,0,0,0,,You should make the final decision with your heart
+Dialogue: 0,0:32:46.90,0:32:47.80,Default,,0,0,0,,My heart
+
+Dialogue: 0,0:32:50.50,0:32:51.50,Default,,0,0,0,,Lucifer is!
+Dialogue: 0,0:32:51.80,0:32:52.80,Default,,0,0,0,,Not joking!
+Dialogue: 0,0:32:52.50,0:32:54.00,Default,,0,0,0,,Restrain her, quickly!
+Dialogue: 0,0:32:53.50,0:32:54.80,Default,,0,0,0,,We have to!
+Dialogue: 0,0:32:55.20,0:32:58.00,Default,,0,0,0,,Protect the Master orbs!
+
+Dialogue: 0,0:32:58.70,0:32:59.50,Default,,0,0,0,,Thats all
+Dialogue: 0,0:33:00.00,0:33:01.70,Default,,0,0,0,,She managed to wake up, but
+Dialogue: 0,0:33:02.00,0:33:03.20,Default,,0,0,0,,Has been rampaging ever since
+Dialogue: 0,0:33:03.80,0:33:06.90,Default,,0,0,0,,Seems that our worst prediction might actually be true
+Dialogue: 0,0:33:08.00,0:33:09.80,Default,,0,0,0,,Come on Oragon, stop fooling around
+Dialogue: 0,0:33:10.00,0:33:11.50,Default,,0,0,0,,But without this, the proof..
+Dialogue: 0,0:33:11.60,0:33:12.70,Default,,0,0,0,,Go back to the other side!
+Dialogue: 0,0:33:14.50,0:33:16.10,Default,,0,0,0,,I understand that everyone is worried
+Dialogue: 0,0:33:16.30,0:33:20.10,Default,,0,0,0,,If Lucifer is going after the other Master orbs, then
+Dialogue: 0,0:33:16.70,0:33:20.90,Default,,0,0,0,,Nobody realizes that Lucifer is leading them by their noses
+Dialogue: 0,0:33:20.60,0:33:24.20,Default,,0,0,0,,In the known Master orb locations - here in Heavens
+Dialogue: 0,0:33:24.20,0:33:26.90,Default,,0,0,0,,And in Britania, the security should be tightened up
+Dialogue: 0,0:33:27.20,0:33:28.00,Default,,0,0,0,,Binah-sama!
+Dialogue: 0,0:33:28.80,0:33:30.60,Default,,0,0,0,,We have a message from the Medical center
+Dialogue: 0,0:33:31.00,0:33:31.90,Default,,0,0,0,,Displaying it now
+Dialogue: 0,0:33:35.70,0:33:38.10,Default,,0,0,0,,Is there a point of listening to her sleep-talk?
+Dialogue: 0,0:33:38.20,0:33:39.40,Default,,0,0,0,,Please be quiet!
+Dialogue: 0,0:33:40.10,0:33:40.80,Default,,0,0,0,,Stella
+Dialogue: 0,0:33:43.60,0:33:44.20,Default,,0,0,0,,Stella
+Dialogue: 0,0:33:45.10,0:33:47.60,Default,,0,0,0,,Queen Stella
+Dialogue: 0,0:33:48.80,0:33:49.60,Default,,0,0,0,,Stella?
+Dialogue: 0,0:33:49.80,0:33:51.80,Default,,0,0,0,,Yes, heard that too
+Dialogue: 0,0:33:52.10,0:33:55.20,Default,,0,0,0,,Binah, does "Stella" ring any bells to you?
+Dialogue: 0,0:33:57.30,0:33:58.00,Default,,0,0,0,,Binah-sama
+Dialogue: 0,0:33:58.80,0:33:59.90,Default,,0,0,0,,Perhaps
+Dialogue: 0,0:34:00.50,0:34:02.10,Default,,0,0,0,,Prophet Queen Stella?
+Dialogue: 0,0:34:02.60,0:34:04.20,Default,,0,0,0,,Oh, we harmonized
+Dialogue: 0,0:34:04.60,0:34:05.60,Default,,0,0,0,,Queen Stella?
+Dialogue: 0,0:34:05.90,0:34:06.70,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:34:07.40,0:34:10.50,Default,,0,0,0,,It supposedly being that oversees the Future unknown to even Almighty
+Dialogue: 0,0:34:10.90,0:34:12.30,Default,,0,0,0,,Though nobody knows if they really exist
+Dialogue: 0,0:34:12.40,0:34:14.40,Default,,0,0,0,,Let's start with collecting information regarding them
+Dialogue: 0,0:34:14.90,0:34:16.80,Default,,0,0,0,,It might lead us to more clues about Lucifer
+Dialogue: 0,0:34:17.00,0:34:18.20,Default,,0,0,0,,Then I'm going to start looking it up
+Dialogue: 0,0:34:18.90,0:34:19.90,Default,,0,0,0,,Please calm down
+Dialogue: 0,0:34:20.10,0:34:22.10,Default,,0,0,0,,Queen Stella might just be a myth
+Dialogue: 0,0:34:21.40,0:34:23.40,Default,,0,0,0,,Is there really any point in this-dora?
+Dialogue: 0,0:34:25.60,0:34:26.60,Default,,0,0,0,,Its totally fine
+Dialogue: 0,0:34:26.70,0:34:28.40,Default,,0,0,0,,Lucifer is innocent after all
+Dialogue: 0,0:34:29.00,0:34:31.80,Default,,0,0,0,,Yes! Even the smallest clues will do
+Dialogue: 0,0:34:32.70,0:34:33.40,Default,,0,0,0,,I understand
+Dialogue: 0,0:34:34.20,0:34:37.70,Default,,0,0,0,,Then if we will find here anything, we will send it back to Opeko
+Dialogue: 0,0:34:37.70,0:34:39.30,Default,,0,0,0,,Noah, are we ready to fly?
+Dialogue: 0,0:34:39.40,0:34:40.60,Default,,0,0,0,,Yes, of course
+Dialogue: 0,0:34:41.10,0:34:41.80,Default,,0,0,0,,Arthur
+Dialogue: 0,0:34:42.00,0:34:43.80,Default,,0,0,0,,You should return back to Britania
+Dialogue: 0,0:34:44.60,0:34:47.90,Default,,0,0,0,,They might targeting Britania as we speak
+Dialogue: 0,0:34:48.70,0:34:52.00,Default,,0,0,0,,We can't it be destroyed like Lecillia was
+Dialogue: 0,0:34:52.90,0:34:55.50,Default,,0,0,0,,It is Kings duty to protect their people!
+Dialogue: 0,0:34:55.80,0:34:56.60,Default,,0,0,0,,Solomon
+Dialogue: 0,0:34:58.10,0:35:00.60,Default,,0,0,0,,Now is not the time to make sour face
+Dialogue: 0,0:35:01.20,0:35:03.40,Default,,0,0,0,,Everyone, its time to leave
+Dialogue: 0,0:35:03.50,0:35:05.70,Default,,0,0,0,,"Alright, Oragon Heart!"
+Dialogue: 0,0:35:05.90,0:35:08.20,Default,,0,0,0,,I can't think of it as easily reachable destination
+Dialogue: 0,0:35:08.40,0:35:11.60,Default,,0,0,0,,If Lucifer managed to find it, its no problem for us either
+Dialogue: 0,0:35:11.90,0:35:13.20,Default,,0,0,0,,Okay, lets go
